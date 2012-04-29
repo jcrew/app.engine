@@ -1,0 +1,17 @@
+application: woozzuzzu
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /style
+  static_dir: static/style
+
+- url: /res
+  static_dir: static/res
+
+- url: /js
+  static_dir: static/js
+
+- url: .*
+  script: main.py

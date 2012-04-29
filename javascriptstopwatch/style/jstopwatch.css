@@ -1,0 +1,46 @@
+/*
+  Copyright 2011 JAEYOON LEE (http://sw.jaeyoon.org)
+  
+  TITLE: Javascript Stop Watch
+  FILE: jstopwatch.css
+  DISCRIPTION: stylesheet for jstopwatch index
+*/
+
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 16px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#container {
+	margin: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px #888;
+    -moz-box-shadow: 5px 5px 2px #888;
+    -webkit-box-shadow: 5px 5px 2px #888;
+}
+
+#header {
+    font-size: 20px;
+    font-weight: normal;
+	text-align: center;
+	color: #333;
+	padding: 10px;
+    border-bottom: 1px solid grey;
+}
+
+#display {
+	font-size: 130px;
+	text-align: center;
+	padding: 80px;
+    color: black;
+}
+
+#copyright {
+	padding: 0 5px 5px 0;
+	color: #999;
+	font-size: 18px;
+	text-align: right;
+}
