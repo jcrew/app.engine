@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+#
 # Programed by JAEYOON LEE 
 # SITE: http://speedcanvas.jaeyoon.org
 # EMAIL: lee@jaeyoon.org
